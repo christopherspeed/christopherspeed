@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christopherspeed
-- 👀 I’m interested in games dev and comedy!
+- 👀 I’m interested in game dev and comedy!
 - 🌱 I’m currently learning C++ in conjunction with Unreal Engine, and I'm already familiar with C and Java
 - 💞️ I’m looking to collaborate on making games, writing sketches, or anything else that seems interesting
 - 📫 Reach me here!
