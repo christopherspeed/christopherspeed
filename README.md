@@ -7,9 +7,9 @@
 - [ClubPrinceton](https://github.com/aabid-ism/ClubPrinceton) - A social media application for connecting with clubs and extracurricular organizations at Princeton University. I handled the entire stack for all site content, implementing a variety of React components with matching Express endpoints and database logic using MongoDB.
 
 # Other Activities
-Outside of Computer Science, I'm:
+Outside of computer science, I'm:
 - the **Vice President** of Princeton Tower Club,
 - a **Senior Liason('23-24)/Workshop Chair ('22-23)** for Princeton's Computer Science Council,
 - **Co-President** of Basement: A Student Stand-up Comedy Group,
 - **Head Writer** of All-Nighter, Princeton's premier late-night talk show, 
-- and **Webmaster/Writer** at Princeton Tiger Magazine, Princeton's college humor magazine since 1882.
+- and **Web Director/Writer** at Princeton Tiger Magazine, Princeton's college humor magazine since 1882.
