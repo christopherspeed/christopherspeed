@@ -9,7 +9,7 @@
 # Other Activities
 Outside of computer science, I'm:
 - the **Vice President** of Princeton Tower Club,
-- a **Senior Liason('23-24)/Workshop Chair ('22-23)** for Princeton's Computer Science Council,
+- a **Senior Liaison('23-24)/Workshop Chair ('22-23)** for Princeton's Computer Science Council,
 - **Co-President** of Basement: A Student Stand-up Comedy Group,
 - **Head Writer** of All-Nighter, Princeton's premier late-night talk show, 
 - and **Web Director/Writer** at Princeton Tiger Magazine, Princeton's college humor magazine since 1882.
