@@ -1,5 +1,5 @@
 # Hi, I’m Christopher (@christopherspeed)!
-- I'm a senior at Princeton University 🐅 studying Computer Science, with a focus on full-stack development.
+- I recently graduated with a Bachelor of Arts in Computer Science from Princeton University, and I'm interested in full-stack development development roles.
 
 # Projects - Here's some of what I've worked on!
 - [ShaderApp](https://speed-shaders.vercel.app/) - A browser application for creating and editing GLSL shaders. Built using React + Typescript, Next.js, react-three-fiber, and styled with Tailwind.
