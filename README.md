@@ -7,7 +7,7 @@
 - [ClubPrinceton](https://github.com/aabid-ism/ClubPrinceton) - A social media application for connecting with clubs and extracurricular organizations at Princeton University. I handled the entire stack for all site content, implementing a variety of React components with matching Express endpoints and database logic using MongoDB.
 
 # Other Activities
-Outside of computer science, I'm:
+Outside of computer science, I was previously:
 - the **Emeritus Vice President** of Princeton Tower Club,
 - a **Senior Liaison('23-24)/Workshop Chair ('22-23)** for Princeton's Computer Science Council,
 - **Co-President** of Basement: A Student Stand-up Comedy Group,
