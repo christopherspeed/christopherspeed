@@ -1,5 +1,5 @@
 # Hi, I’m Christopher (@christopherspeed)!
-- I recently graduated with a Bachelor of Arts in Computer Science from Princeton University, and I'm interested in full-stack development development roles.
+- I recently graduated with a Bachelor of Arts in Computer Science from Princeton University, and I'm interested in full-stack development roles.
 
 # Projects - Here's some of what I've worked on!
 - [My Princeton Senior Thesis](https://github.com/christopherspeed/comedy_thesis_editor) - A Jupyter Notebook-based interface for editing stand-up comedy videos. Built using Python, OpenCV, Jupyter Notebooks, and FFmpeg.
